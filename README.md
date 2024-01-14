@@ -4,7 +4,7 @@ I'm Abhinav, a computer science enthusiast based in India. Welcome to my GitHub 
 
 ## 🚀 About Me
 
-- 🌱 I’m currently diving into Full Stack devolepment and Data Structures..
+- 🌱 I’m currently diving into Full Stack development and Data Structures..
 - 💻 Passionate about coding challenges and problem-solving.
   
 
