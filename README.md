@@ -24,6 +24,8 @@ Welcome to my GitHub — my playground for ideas, experiments, and impactful pro
 <img src="https://github.com/r-abhinav1/r-abhinav1/assets/143101364/484af545-f1bd-4ebe-8ecf-017aeacf83f4" alt="Your Image" style="width: auto; height: 40px;">
 <img src="https://github.com/r-abhinav1/r-abhinav1/assets/143101364/12891cb8-80b7-4e66-92a7-4cb41a521a2a" alt="Your Image" style="width: auto; height: 40px;">
 <img src="https://github.com/r-abhinav1/r-abhinav1/assets/143101364/cc7a5262-b476-40fb-a469-37a09c6e3c47" alt="Your Image" style="width: auto; height: 40px;">
+<img width="225" height="225" alt="fastapi" src="https://github.com/user-attachments/assets/543818fc-d25e-4e56-a0f0-b67b91bad593" />
+<img width="225" height="225" alt="flask" src="https://github.com/user-attachments/assets/03213e86-b3a1-474a-9b25-92217adcc6cc" />
 
 
 ## 🌟 Projects
