@@ -1,12 +1,20 @@
 # Hey there! 👋
 
-I'm Abhinav, a computer science enthusiast based in India. Welcome to my GitHub playground!
+I'm **Abhinav**, a Computer Science & Engineering student passionate about **AI, Machine Learning**, and **Full Stack Development**.  
+Welcome to my GitHub — my playground for ideas, experiments, and impactful projects!
 
 ## 🚀 About Me
 
-- 🌱 I’m currently diving into Full Stack development and Data Structures..
-- 💻 Passionate about coding challenges and problem-solving.
-  
+- 🌱 Currently exploring the intersection of **Machine Learning** and **Web Development** — building intelligent, accessible, and user-focused applications.  
+- 💻 I love tackling **real-world problems** through code, from smart automation to assistive tech.  
+
+## 💡 Interests
+
+- Artificial Intelligence & Machine Learning  
+- Full Stack Development
+- Data Structures & Algorithms  
+- Research on Human–AI Interaction and Accessibility  
+
 
 ## 🔧 Tech Stack
 <img src="https://github.com/r-abhinav1/r-abhinav1/assets/143101364/26bb39c4-a08f-4998-8622-cd98cdad4d88" alt="Your Image" style="width: auto; height: 40px;">
