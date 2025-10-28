@@ -25,16 +25,7 @@ Welcome to my GitHub — my playground for ideas, experiments, and impactful pro
   <img src="https://github.com/r-abhinav1/r-abhinav1/assets/143101364/484af545-f1bd-4ebe-8ecf-017aeacf83f4" alt="Tech" width="60" height="60">
   <img src="https://github.com/r-abhinav1/r-abhinav1/assets/143101364/12891cb8-80b7-4e66-92a7-4cb41a521a2a" alt="Tech" width="60" height="60">
   <img src="https://github.com/r-abhinav1/r-abhinav1/assets/143101364/cc7a5262-b476-40fb-a469-37a09c6e3c47" alt="Tech" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/543818fc-d25e-4e56-a0f0-b67b91bad593" alt="FastAPI" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/03213e86-b3a1-474a-9b25-92217adcc6cc" alt="Flask" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/caf6e425-66ef-4e5e-8100-1de5e7b6e703" alt="Bootstrap" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/57f48aa5-234a-4096-a63c-2d26a79df88d" alt="Hugging Face" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/4323587f-f32f-4c26-9bc9-acb29b2c1315" alt="Git" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/e4769d2b-d37c-4287-90bc-6ba9688ee723" alt="Firebase" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/4b632c5c-e3f0-4f08-9cc1-56f7c0ad801e" alt="Ollama" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/16e1add5-c684-49d0-8b80-b718715de081" alt="Postman" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/a53ba8d0-9dc5-46f2-9d6e-392e691202ab" alt="MongoDB" width="60" height="60">
-</p>
+![postman-icon](https://github.com/user-attachments/assets/5cbe97c3-f972-4bd6-b323-4c6b0f394eea)
 
 
 
