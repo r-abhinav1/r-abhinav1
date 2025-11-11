@@ -36,8 +36,6 @@ Welcome to my GitHub — my playground for ideas, experiments, and impactful pro
 <img src="https://github.com/user-attachments/assets/164f4fd2-bc06-4f19-b28d-334c9137e604" alt="Firebase" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/ceeea398-fbda-4004-b32b-a0bfa6e47f4f" alt="TensorFlow" width="60" height="60">
 
-
-
 ## 🌟 Projects
 
 ### [AgrajaBot](https://github.com/r-abhinav1/AgrajaBot)
@@ -46,8 +44,10 @@ A multilingual dementia companion chatbot designed to assist elderly individuals
 ### [BillBear](https://github.com/r-abhinav1/BillBear)
 A smart bill splitting web app that uses OCR to extract items from restaurant receipts and fairly distribute costs among group members. Supports collaboration, PDF export, and mobile-friendly usage.
 
+### [Automated Inebriation Detection](https://github.com/r-abhinav1/automated-inebriation-detection)
+A computer vision and machine learning-based system to detect signs of intoxication using facial features, supported by an MQ3 ethanol sensor as a failsafe. Achieves high accuracy using Random Forest and Logistic Regression models with real-time feature extraction through MediaPipe.
+
 ### [FlashFleet](https://github.com/r-abhinav1/FlashFleet)
 A productivity web app that generates AI-powered quizzes and flashcards for efficient revision. Includes secure user login and MongoDB-backed data storage.
-
 
 Feel free to explore my repositories and drop me a message. Let's collaborate and build cool stuff together! 🚀
