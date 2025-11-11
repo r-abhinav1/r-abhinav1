@@ -40,15 +40,14 @@ Welcome to my GitHub — my playground for ideas, experiments, and impactful pro
 
 ## 🌟 Projects
 
-### [Pomodoro Timer](https://github.com/r-abhinav1/pomodoro-timer)
-Productive website using pomodoro technique with features for effective focus sessions.
+### [AgrajaBot](https://github.com/r-abhinav1/AgrajaBot)
+A multilingual dementia companion chatbot designed to assist elderly individuals with conversational support and early cognitive monitoring. Built with speech-based dementia detection and a caregiver dashboard for tracking user well-being.
 
+### [BillBear](https://github.com/r-abhinav1/BillBear)
+A smart bill splitting web app that uses OCR to extract items from restaurant receipts and fairly distribute costs among group members. Supports collaboration, PDF export, and mobile-friendly usage.
 
-### [ExamSecure](https://github.com/r-abhinav1/ExamSecure)
-Tool to set leak-free exam papers using RSA encryption. It also has real-time rendering for math equations, auto multiple choice mode and many other features.
-
-### [Genos](https://github.com/r-abhinav1/genos)
-Genos is a multi purpose discord bot that can perform basic chat communication, server moderation,get description of movies and give reccomandations,play hangman,etc.
+### [FlashFleet](https://github.com/r-abhinav1/FlashFleet)
+A productivity web app that generates AI-powered quizzes and flashcards for efficient revision. Includes secure user login and MongoDB-backed data storage.
 
 
 Feel free to explore my repositories and drop me a message. Let's collaborate and build cool stuff together! 🚀
