@@ -25,7 +25,11 @@ Welcome to my GitHub — my playground for ideas, experiments, and impactful pro
   <img src="https://github.com/r-abhinav1/r-abhinav1/assets/143101364/484af545-f1bd-4ebe-8ecf-017aeacf83f4" alt="Tech" width="60" height="60">
   <img src="https://github.com/r-abhinav1/r-abhinav1/assets/143101364/12891cb8-80b7-4e66-92a7-4cb41a521a2a" alt="Tech" width="60" height="60">
   <img src="https://github.com/r-abhinav1/r-abhinav1/assets/143101364/cc7a5262-b476-40fb-a469-37a09c6e3c47" alt="Tech" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/4794801c-f019-4d01-880a-d0d3e9a364ff" alt="Tech" width="60" height="60">
+<img width="512" height="512" alt="Flutter" src="https://github.com/user-attachments/assets/6483fdfc-345a-4ee9-a712-f6e319880fd7" />
+<img width="512" height="512" alt="Flask" src="https://github.com/user-attachments/assets/77da0f6a-803e-400d-a60f-7fcc0a1c6e3a" />
+<img width="512" height="512" alt="FastAPI" src="https://github.com/user-attachments/assets/792b70dc-24ad-4591-b671-e6ce5d6dd7d9" />
+<img width="512" height="512" alt="Bootstrap" src="https://github.com/user-attachments/assets/f68426ea-1506-4892-96e9-bc31467713fb" />
+
 
 
 ## 🌟 Projects
